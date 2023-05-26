@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Andrés Esquivel</h1>
+<h1 align="left">Hi 👋, I'm Estuardo Andrés Esquivel Díaz</h1>
 <p align="left">Hello world, let me introduce myself, my name is Andrés Esquivel. I am a graduate of the Computer Engineering degree at the National University of Trujillo (Peru). Currently I am a Fullstack and BlockChain developer in training. I specialized in the development of scalable web and mobile applications using technologies such as Javascript, Python, Rust and Go.</p>
 
 - 🌱 I’m currently learning *Rust and arduino**
